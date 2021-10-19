@@ -3,7 +3,7 @@
 using A3.Eggs;
 namespace A3.Birds
 {
-	class Bird
+	abstract class Bird
 	{
 		public static Random Rand = new Random(1);
 		public virtual Egg[] LayEggs(int numEggs)
@@ -15,11 +15,25 @@ namespace A3.Birds
 
 	class Chicken : Bird
 	{
-		// TODO: Implement this class
+		public override Egg[] LayEggs(int numEggs)
+        {
+			Random rand = new Random(1);
+			Egg[] eggs = new Egg[numEggs];
+			for(int i = 0; i < numEggs; i++)
+				eggs[i] = new Egg((rand.NextDouble() * 2.0) + 2.0, Egg.Colors.brown);
+			return eggs;
+        }
 	}
 
 	class Ostrich : Bird 
 	{
-		// TODO: Implement this class
+		public override Egg[] LayEggs(int numEggs)
+		{
+			Random rand = new Random(1);
+			Egg[] eggs = new Egg[numEggs];
+			for (int i = 0; i < numEggs; i++)
+				eggs[i] = new Egg((rand.NextDouble() * 5.0) + 10.0, Egg.Colors.speckled);
+			return eggs;
+		}
 	}
 }

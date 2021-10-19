@@ -1,0 +1,16 @@
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\bin\Debug\net5.0\IoT1030-Assignment3.exe
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\bin\Debug\net5.0\IoT1030-Assignment3.deps.json
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\bin\Debug\net5.0\IoT1030-Assignment3.runtimeconfig.json
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\bin\Debug\net5.0\IoT1030-Assignment3.runtimeconfig.dev.json
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\bin\Debug\net5.0\IoT1030-Assignment3.dll
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\bin\Debug\net5.0\ref\IoT1030-Assignment3.dll
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\bin\Debug\net5.0\IoT1030-Assignment3.pdb
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.csproj.AssemblyReference.cache
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.AssemblyInfoInputs.cache
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.AssemblyInfo.cs
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.csproj.CoreCompileInputs.cache
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.dll
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\ref\IoT1030-Assignment3.dll
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.pdb
+E:\Programs\My Programs\IoT1030-Assignment3\IoT1030-Assignment3\IoT1030-Assignment3\obj\Debug\net5.0\IoT1030-Assignment3.genruntimeconfig.cache
