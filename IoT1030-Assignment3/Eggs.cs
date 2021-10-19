@@ -20,10 +20,15 @@
 		}
 	}
 
-	/*
 	class BrokenEgg : Egg
 	{
-		// TODO: Implement for Task 2
-	}
-	*/
+		public BrokenEgg(double size, Colors color) : base(size, color)
+        {
+
+        }
+        public override string ToString()
+        {
+            return base.ToString() + " that is broken";
+        }
+    }
 }
